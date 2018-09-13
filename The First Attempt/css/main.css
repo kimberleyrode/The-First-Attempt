@@ -53,10 +53,6 @@ h1 {
     font-size: 1.25em;
 }
 
-ol {
-    text-align; center;
-}
-
 /* unvisited link */
 a:link {
     color: #535C67;
